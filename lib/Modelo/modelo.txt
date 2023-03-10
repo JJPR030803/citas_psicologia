@@ -2,7 +2,6 @@ import 'package:hive/hive.dart';
 import 'Mlogin.g.dart';
 
 
-@HiveType(typeId: 0)
 class contrasenas {
   @HiveType(typeId: 0)
   late String contrasena1;
